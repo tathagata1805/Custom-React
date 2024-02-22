@@ -1,2 +1,2 @@
-# MyownReact-Library
-Creation of Own react library using Javascript Data Structure
+# Custom React-Library
+Built of own custom React library using Javascript Data Structure
